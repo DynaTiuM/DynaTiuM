@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m a Computer Science Engineer with a passion for Software Development.
+I’m a Computer Science Engineer with a passion for Software Development.  
 I enjoy working collaboratively within a team, contributing effectively, and ensuring smooth project progress through pipelines, code reviews, and other workflow practices.
 
 Don't hesitate to visit my Portfolio: https://raphael-perrin.com
